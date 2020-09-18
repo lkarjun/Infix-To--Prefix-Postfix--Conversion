@@ -72,4 +72,4 @@ ans = c.displayPrefix()
 
 assert ans == 'KL+MNOP^*W*U/V/T*-Q+'
 
-print(f"\nRegular form = {string}\nInfix form = {ans}")
+print(f"\nInfix form = {string}\nPostfix form = {ans}")
